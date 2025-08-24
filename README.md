@@ -20,4 +20,3 @@ An interactive webpage where users can create ripple effects on the background b
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/ripple-effect-background.git
-2. 

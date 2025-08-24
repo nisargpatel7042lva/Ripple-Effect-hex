@@ -1,30 +1,23 @@
-# Ripple-Effect-Template
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+# 🌊 Ripple Effect Background
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/nisargpatel7042lvas-projects/v0-trial)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/hiAsSJXlrE8)
+An interactive webpage where users can create ripple effects on the background by clicking or enabling pointer-follow mode. The ripples expand, fade, and can be customized with different colors, sizes, and effects.
 
-## Overview
+## ✨ Features
+- **Dark & Light Themes** — choose between two beautifully designed versions.
+- Click anywhere to create ripple effects.
+- Optional pointer-follow mode for continuous ripples.
+- Customizable:
+  - Ripple size
+  - Speed
+  - Fade
+  - Base color (or random hues)
+  - Glow / gradient fill
+- Control panel to tweak settings live.
+- Clear, pause, randomize, or export the background as PNG.
+- Copy embed code to use on your own site.
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
-
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/nisargpatel7042lvas-projects/v0-trial](https://vercel.com/nisargpatel7042lvas-projects/v0-trial)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/hiAsSJXlrE8](https://v0.dev/chat/projects/hiAsSJXlrE8)**
-
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## 🚀 Getting Started
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/ripple-effect-background.git
+2. 
